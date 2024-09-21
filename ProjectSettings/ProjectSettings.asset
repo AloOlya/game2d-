@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 8bfa234e00ab2a14b897ffd696214ac2
+  productGUID: 9c4345277e9d87a4e97c873e14afc330
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -706,10 +706,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: aa022533-9dcf-429e-a604-b229dfea0d6c
+  cloudProjectId: 76524f28-c2f7-46de-9e73-ab472acef672
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: game2d 2024-09-10_17-47-25
+  projectName: game2d 2024-09-21_17-28-04
   organizationId: aloolyas
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
